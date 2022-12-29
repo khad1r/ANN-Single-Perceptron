@@ -1,0 +1,32 @@
+[
+    {
+        "HARTA":1.2,
+        "UTANG":0.3,
+        "GAJI":1.6,
+        "STATUS":1
+    },
+    {
+        "HARTA":0.8,
+        "UTANG":0.6,
+        "GAJI":0.95,
+        "STATUS":1
+    },
+    {
+        "HARTA":1.1,
+        "UTANG":1,
+        "GAJI":0.8,
+        "STATUS":1
+    },
+    {
+        "HARTA":0.4,
+        "UTANG":1,
+        "GAJI":0.65,
+        "STATUS":0
+    },
+    {
+        "HARTA":0.5,
+        "UTANG":1.5,
+        "GAJI":0.75,
+        "STATUS":0
+    }
+]
